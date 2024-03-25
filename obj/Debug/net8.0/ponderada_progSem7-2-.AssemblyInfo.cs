@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ponderada_progSem7-2-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5a895fffde3b993e674df24616fdbc3a28f8a29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c6925ce356a84062234579a555930a0ad4288ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("ponderada_progSem7-2-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ponderada_progSem7-2-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
